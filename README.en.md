@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="../../releases/latest"><b>Download the ISO</b></a> ·
+  <a href="https://github.com/TheWorms/sb-imager"><b>SB Imager</b> (create the key)</a> ·
   <a href="../../wiki/Overview">Documentation (wiki)</a> ·
   <a href="../../wiki/Tools">Tools</a> ·
   <a href="../../wiki/Practical-sheets">Practical sheets</a>
@@ -25,6 +26,7 @@
 - **Disks are protected**: everything is read-only at boot; only the destination is unlocked, on purpose.
 - **More than 300 tools** in 16 categories, each with its **risk colour**, from green (reading) to red (modifies or destroys).
 - **Graphical assistants** for 300 of them, and **104 step-by-step practical sheets**.
+- **The key is made with [SB Imager](https://github.com/TheWorms/sb-imager)**, Raspberry Pi Imager style: it downloads the ISO, checks it, writes it and reads the key back.
 - **Boots everywhere**: BIOS, UEFI, UEFI with Secure Boot; in French or English.
 - Based on **Debian 13 (trixie)**, 64-bit. 1.1 GB image.
 

@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="../../releases/latest"><b>Télécharger l'ISO</b></a> ·
+  <a href="https://github.com/TheWorms/sb-imager"><b>SB Imager</b> (créer la clé)</a> ·
   <a href="../../wiki">Documentation (wiki)</a> ·
   <a href="../../wiki/Outils">Les outils</a> ·
   <a href="../../wiki/Fiches-pratiques">Fiches pratiques</a>
@@ -25,6 +26,7 @@
 - **Les disques sont protégés** : tout est en lecture seule au démarrage ; on déverrouille exprès la seule destination.
 - **Plus de 300 outils** en 16 rubriques, chacun avec sa **couleur de risque**, du vert (lecture) au rouge (modifie ou détruit).
 - **Des assistants graphiques** pour 300 d'entre eux, et **104 fiches pratiques** pas à pas.
+- **La clé se crée avec [SB Imager](https://github.com/TheWorms/sb-imager)**, à la Raspberry Pi Imager : il télécharge l'ISO, la vérifie, l'écrit et relit la clé.
 - **Démarre partout** : BIOS, UEFI, UEFI avec Secure Boot ; en français ou en anglais.
 - Basé sur **Debian 13 (trixie)**, 64 bits. Image de 1,1 Go.
 
