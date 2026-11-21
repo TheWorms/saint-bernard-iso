@@ -1,0 +1,4 @@
+release/
+*.iso
+*.iso.sha256
+*.packages
